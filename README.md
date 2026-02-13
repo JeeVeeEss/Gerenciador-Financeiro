@@ -6,6 +6,6 @@ Projeto dedicado a desenvolver um gerenciador financeiro simples.
 ---
  # Como testar o sistemas e fazer suas features ?
  - Clonar o repositório
- - Iniciar a Virutalenv e instalar as dependências com o Poetry <img source="https://python-poetry.org/images/logo-origami.svg" width=100 height=100/>
+ - Iniciar a Virutalenv e instalar as dependências com o Poetry
  - Usar o comando `poetry run manage.py runserver`
  - Se divertir!
